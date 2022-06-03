@@ -1,4 +1,4 @@
-# Tarea 1: crear repositorio local con GIT
+# Tarea 1: crear repositorio con GIT
 ![Imagen de Git: error al cargar la imagen](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FA4_6e24biy8bp4ahrL-TNfaircI%3D%2F0x0%3A2040x1360%2F1200x800%2Ffilters%3Afocal(1287x538%3A1613x864)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F63739082%2Fgit.0.jpg&f=1&nofb=1 "Logo de git")
 
 
